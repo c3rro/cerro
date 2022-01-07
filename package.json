@@ -1,7 +1,7 @@
 {
-  "name": "react-pages-boilerplate",
+  "name": "cerro",
   "version": "1.0.0",
-  "description": "Simple boilerplate for working with React, redux, react-router and Github Pages",
+  "description": "Cerro Analytics",
   "private": "true",
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rtivital/react-pages-boilerplate.git"
+    "url": "git+https://github.com/c3rro/cerro"
   },
-  "author": "Vitaly Rtishchev <rtivital@gmail.com> (http://github.com/rtivital)",
+  "author": "C",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rtivital/react-pages-boilerplate/issues"
+    "url": "https://github.com/c3rro/cerro/issues"
   },
-  "homepage": "https://github.com/rtivital/react-pages-boilerplate#readme",
+  "homepage": "https://github.com/c3rro/cerro#readme",
   "dependencies": {
     "@mantine/core": "^2.2.0",
     "@mantine/eslint-config": "2.2.0",
